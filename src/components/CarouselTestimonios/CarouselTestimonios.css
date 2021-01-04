@@ -1,0 +1,41 @@
+.ContainerCarousel {
+    max-width: 100%;
+}
+
+.HeadTabla {
+    font-size: 25px;
+    text-align: center;
+}
+
+.LinkCarousel {
+    background-color: rgba(255, 255, 255, 0.829); 
+      
+}
+
+.LinkCarousel:focus {
+    color: #f5c650;
+}
+
+.LinkCarousel:hover {
+    color: #f5c650;
+}
+
+.pCarousel {
+    background-color: rgba(39, 39, 39, 0.753);
+}
+
+.Interlineado{
+    line-height: 20%
+}
+
+.NombreTestimonio{
+    font-weight: 600;
+}
+
+.DatosTestimonio{
+    font-style: italic;
+}
+
+.TextoTestimonio{
+    font-weight: 400;
+}

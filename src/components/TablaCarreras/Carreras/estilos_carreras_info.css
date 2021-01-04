@@ -1,0 +1,73 @@
+.general{
+    text-align: left;
+}
+
+.LetraTituloCarrera {
+    color: black;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+    padding-left: 1em; 
+    border-left: 4px solid #005e90;
+    transform: translateX(-37px);
+}
+
+
+.LetraSubTituloCarrera {
+    color: black;
+    text-align: left;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+
+.infoC  {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+.infoC th{
+    font-family:'Montserrat', sans-serif;
+    line-height: 22px;
+    font-size: 14px;
+    font-weight:normal;
+    overflow:hidden;padding:10px 5px;
+    word-break:normal;
+}
+.infoC .infoCarrera{
+    border-color:#ffffff;
+    text-align:left;
+    vertical-align:top
+}
+.infoC td.infoCarrera.parrafo{
+    width: 65%;
+}
+
+.infoC td.infoCarrera.carta{
+    width: 100%;
+}
+
+.lista .list-group{
+    box-shadow: 0 0 8px 0 rgba(0,0,0,.2);
+}
+
+.lista .list-group .link{
+    border-left: 4px solid #e5b300;
+    font-weight: 700;
+    color: #005e90;
+}
+
+.responsive-table .table-blue{
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #005e90;
+    color: white;
+    border-collapse: collapse;
+}
+
+.responsive-table tr:nth-child(odd) {
+    background-color:rgb(7, 68, 105);
+}
+.responsive-table tr:nth-child(even) {
+    background-color:rgb(0,94,144);
+}

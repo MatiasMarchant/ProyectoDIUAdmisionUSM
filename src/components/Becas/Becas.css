@@ -1,0 +1,30 @@
+.ContainerBecas {
+    max-width: 90%;
+}
+
+/*.LetraHeader {
+    color: black;
+    text-align: left;
+    font-size: xx-large;
+    font-weight: bold;
+}*/
+
+.AccordionBecas {
+    text-align: left;
+    font-size: medium;
+}
+
+.HeaderAccordion {
+    font-size: large;
+    font-weight: 500;
+}
+
+.AccordionBecas.accordion .card{
+    margin-bottom: 1%;
+    border-color: black;
+    border-bottom: 1;
+}
+
+.HeaderAccordion.card-header{
+    cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.navLinkColor {
+    color: white;
+    background-color: #0160a0;
+}
+
+.navLinkColor:focus {
+    color: #f5c650;
+}
+
+.navLinkColor:hover {
+    color: #f5c650;
+}
+
+.navNav {
+    border-color: white;
+}
+
+.navLinkAdmisionUSM {
+    color: black;
+    font-size: xx-large;
+}
+
+.ContainerAdmisionUSM {
+    background-color: rgb(253, 253, 253);
+    font-weight: bold;
+}
+
+.Container2daNavbar {
+    max-width: 100%;
+}

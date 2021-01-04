@@ -1,0 +1,25 @@
+
+:root {
+    --bg-table-stripe: #f6f6f5;
+    --b-table: #e3e3e2;
+    --caption: #242423;
+}
+
+table {
+    background-color: transparent;
+    border-collapse:collapse;
+  	font-family: Arial, Helvetica, sans-serif
+}
+
+th {
+    text-align:left;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+  text-align:left;
+}
+
+.ContainerCarreras {
+  max-width: 90%;
+}
